@@ -4,6 +4,7 @@ PROJECT NAME:
 
 Netflix Data Analysis Using Tableau 
 
+
 Technologies Used:
 
     •	Advance Excel
@@ -36,3 +37,28 @@ Data Visualization:
     6) Country wise Map of Total Movies and TV shows by Country
     
     7) Showing Wordcloud For Country, Directors,Category, Gerne, Rating
+    
+Methodology:
+
+The goal of this project is to practice creating and interpreting different types of visualizations using real world data. I create a minimum of two histogram, two pie chart and one bar graph with matplotlib, seaborn and worldcloud.
+
+Vertical Bar Graph of Rating & Horizontal Bar Graph of Top 10 Gerne.
+
+![Netflix1](https://user-images.githubusercontent.com/124501309/218270061-5c4acddb-b660-460e-8fb8-796b84993d7e.jpg)
+
+Country wise Map of Total Movies and TV shows by Country & line Area Graph of Total Movies and TV shows by Year.
+
+![Netflix2](https://user-images.githubusercontent.com/124501309/218270101-d20101e5-14c2-419d-92fc-2a9e703ca9d6.jpg)
+
+
+Netflix Analysis Dashboard
+
+The dashboard shows:
+
+1) The User can search the movies,Tv show and he/she will get rating, duration, genre, release date, added date and Description about it.
+2) The Dashboard will provide interactive interface of list according to user choice of genre.
+3) The Dashboard will show total number of movies and Tv shows released each year. 
+4) The Dashboard will top 10 genre and pie chart of sum up of movies and Tv shos released each year.
+
+![Netflix](https://user-images.githubusercontent.com/124501309/218270123-35907b8d-1ca2-4a7a-8087-5999b55c31f1.png)
+
