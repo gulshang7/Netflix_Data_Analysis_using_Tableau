@@ -38,17 +38,22 @@ Data Visualization:
     
     7) Showing Wordcloud For Country, Directors,Category, Gerne, Rating
     
+
 Methodology:
+
 
 The goal of this project is to practice creating and interpreting different types of visualizations using real world data. I create a minimum of two histogram, two pie chart and one bar graph with matplotlib, seaborn and worldcloud.
 
 Vertical Bar Graph of Rating & Horizontal Bar Graph of Top 10 Gerne.
 
-![Netflix1](https://user-images.githubusercontent.com/124501309/218270061-5c4acddb-b660-460e-8fb8-796b84993d7e.jpg)
+![Netflix11](https://user-images.githubusercontent.com/124501309/218270222-62cd16d0-f513-43e4-bc01-9e4647fbe0fe.jpg)
+
+
 
 Country wise Map of Total Movies and TV shows by Country & line Area Graph of Total Movies and TV shows by Year.
 
-![Netflix2](https://user-images.githubusercontent.com/124501309/218270101-d20101e5-14c2-419d-92fc-2a9e703ca9d6.jpg)
+![Netflix21](https://user-images.githubusercontent.com/124501309/218270235-f51ddded-7b61-4514-92a8-39a45bd3104f.jpg)
+
 
 
 Netflix Analysis Dashboard
