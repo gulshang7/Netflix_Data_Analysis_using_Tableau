@@ -70,3 +70,6 @@ DASHBOARD:
 
 ![Netflix](https://user-images.githubusercontent.com/124501309/218270123-35907b8d-1ca2-4a7a-8087-5999b55c31f1.png)
 
+NOTE:
+
+I have uploaded all the files, datasets, workbook, icons above. Feel free to use this Project's resourses for your next Project. If you like this Project and Dashboard give it a Star or just tell me. It'll make me feel Good :)
