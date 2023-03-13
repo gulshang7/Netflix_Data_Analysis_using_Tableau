@@ -1,4 +1,13 @@
-# Netflix_Data_Analysis_using_Tableau
+# Netflix Data Analysis using Tableau
+
+![NETFLIX](https://user-images.githubusercontent.com/124501309/224610912-3728b852-8844-419c-b668-82c6d4ceec23.png)
+
+## LINKS: 
+
+Lets Connect
+LinkedIn: https://www.linkedin.com/in/gulshan-gedam-362905209/
+
+Dashboard: https://public.tableau.com/app/profile/gulshan.gedam/viz/NetflixProject-TableauDashboard/Netflix?publish=yes
 
 ## PROJECT NAME: 
 
