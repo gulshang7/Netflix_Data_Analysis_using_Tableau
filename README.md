@@ -5,9 +5,9 @@
 ## LINKS: 
 
 Lets Connect
-LinkedIn: https://www.linkedin.com/in/gulshan-gedam-362905209/
+[Go to my LinkedIn](https://www.linkedin.com/in/gulshan-gedam-362905209/) 🌐
 
-Dashboard: https://public.tableau.com/app/profile/gulshan.gedam/viz/NetflixProject-TableauDashboard/Netflix?publish=yes
+[Go to my Dashboard](https://public.tableau.com/app/profile/gulshan.gedam/viz/NetflixProject-TableauDashboard/Netflix?publish=yes)
 
 ## PROJECT NAME: 
 
@@ -82,3 +82,5 @@ The dashboard shows:
 ## NOTE:
 
 I have uploaded all the files, datasets, workbook, icons above. Feel free to use this Project's resourses for your next Project. If you like this Project and Dashboard give it a Star or just tell me. It'll make me feel Good :)
+
+[Go to my LinkedIn](https://www.linkedin.com/in/gulshan-gedam-362905209/) 🌐
